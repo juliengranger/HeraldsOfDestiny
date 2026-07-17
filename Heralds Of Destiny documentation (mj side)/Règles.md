@@ -7,15 +7,7 @@ idée : partir du système d’Yvan, car assez simple à équilibrer, puis compl
 
 
 
-**liste des types de dégâts (pour sorts etc) :**   
-(plusieurs types de dégâts peuvent être appliqués en même temps)
 
-- feu/chaleur  
-- eau/glace/froid  
-- force/magie  
-- lumière  
-- ténèbre  
-- psychique
 
 2) **Progression**
 
