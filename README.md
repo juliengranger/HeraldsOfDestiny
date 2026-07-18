@@ -2,8 +2,9 @@
 
 JDR écrit par Julien Granger.
 
-Le système est centré sur la baston, la progression des persos   
-et l’avancée d’une intrigue SIMPLE.
+idée : partir du système d’Yvan, car assez simple à équilibrer, puis complexifier le tout
+
+Le système est centré sur la baston, la progression des persos et l’avancée d’une intrigue simple.
 
 Le but est d’avoir un système de combat amusant, où on ne fait pas toujours la même chose chaque tour (Yvan’s barbarian i’m looking at you).
 
