@@ -20,12 +20,12 @@ ressource : stamina (?)
 
 Sous classes :
 
-- [Combattant lourd](https://docs.google.com/document/d/1gY-TuLbYLJedCDCqAjkw-eApKn_a8XTrIxc7ZQ55cs8/edit?usp=sharing)  
-- [Combattant léger](https://docs.google.com/document/d/1zCHvAelwbSevQhUvSDnQbrSS-Sw0-7HpH_3n04sUTTE/edit?usp=sharing)  
-- [\# Combattant spécialisé](https://docs.google.com/document/d/1OhsU4FoV4w_8l57H7eq9rhrvhmntNWr6Iw6RJy3exfE/edit?usp=sharing) 
+- [Combattant lourd] 
+- [Combattant léger]  
+- [\# Combattant spécialisé]
 
-progression : (skills)  
-\+[\# Guerrier](https://docs.google.com/document/d/1f75f7MXvKdw_qGwu-c0GYTQ9cGzod7BUkjTDvHf4X8E/edit?usp=sharing) (compétences)
+**progression : (skills)  **
+
 
 | lvl | nom | coût | effet | description (lore/note) |
 | :---- | :---- | :---- | :---- | :---- |
