@@ -5,7 +5,7 @@
   - [Combattant lourd]
   - [\# Combattant spécialisé]
     - dunmaglass (2H sword)  
-    - weeb (katana) (remind sakura   
+    - Iaï (katana)
     - [Grand Bouclier]
     - dual wield 
     - whatever tf you want 
